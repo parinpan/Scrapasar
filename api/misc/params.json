@@ -1,0 +1,91 @@
+{
+    "product_query_values": {
+        "tokopedia": {
+            "scheme": "https",
+            "device": "desktop",
+            "catalog_rows": 0,
+            "source": "universe",
+            "ob": 23,
+            "st": "product",
+            "rows": 20
+        },
+        "bukalapak": {
+            "limit": 20
+        }
+    },
+    "product_query_params": {
+        "tokopedia": {
+            "assurance": "assurance",
+            "brand": "brand",
+            "category_id": "sc",
+            "category_name": "category_name",
+            "cities": "fcity",
+            "condition": "condition",
+            "deal": "deal",
+            "page": "start",
+            "facet": "facet",
+            "free_shipping_provinces": "free_shopping_provinces",
+            "installment": "installment",
+            "keywords": "q",
+            "limit": "rows",
+            "offset": "offset",
+            "premium_seller": "premium_seller",
+            "price_range": "price_range",
+            "provinces": "provinces",
+            "sort": "sort",
+            "store_id": "store_id",
+            "top_seller": "top_seller",
+            "wholesale": "wholesale",
+            "access_token": "unique_id",
+            "scheme": "scheme",
+            "device": "device",
+            "catalog_rows": "catalog_rows",
+            "source": "source",
+            "ob": "ob",
+            "st": "st"
+        },
+        "bukalapak": {
+            "assurance": "assurance",
+            "brand": "brand",
+            "category_id": "category_id",
+            "category_name": "category_name",
+            "cities": "cities",
+            "condition": "condition",
+            "deal": "deal",
+            "facet": "facet",
+            "free_shipping_provinces": "free_shopping_provinces",
+            "installment": "installment",
+            "keywords": "keywords",
+            "limit": "limit",
+            "page": "offset",
+            "premium_seller": "premium_seller",
+            "price_range": "price_range",
+            "provinces": "provinces",
+            "sort": "sort",
+            "store_id": "store_id",
+            "top_seller": "top_seller",
+            "wholesale": "wholesale",
+            "access_token": "access_token",
+            "scheme": "scheme",
+            "device": "device",
+            "catalog_rows": "catalog_rows",
+            "source": "source",
+            "ob": "ob",
+            "st": "st"
+        }
+    },
+    "category_translation": {
+        "24": {
+            "tokopedia": "24",
+            "bukalapak": "8"
+        },
+        "65": {
+            "tokopedia": "65",
+            "bukalapak": "7"
+        },
+        "289": {
+          "tokopedia": "289",
+          "bukalapak": "3"
+        }
+    }
+}
