@@ -15,7 +15,7 @@ class BukalapakHelper:
                 # BukalapakParser.profile_page(data, config["source"])
 
         except Exception as e:
-            print(str(e) + 'zzzz')
+            print(str(e))
 
     @staticmethod
     def delivery_time_converter(delivery_time):
